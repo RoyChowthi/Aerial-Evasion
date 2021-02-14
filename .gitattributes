@@ -1,3 +1,1 @@
-* linguist-vendored
-*.Objective-C linguist-vendored=false
-*.Swift linguist-detectable=true
+*.*linguist-language=Swift
