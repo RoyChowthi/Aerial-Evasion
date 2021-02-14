@@ -1,3 +1,2 @@
 * linguist-vendored
-*.Swift linguist-vendored=false
-*.gs linguist-language=Swift
+*.js linguist-vendored=false
