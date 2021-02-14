@@ -1,2 +1,2 @@
-# direct swift
-*.Objective-C linguist-vendored
+* linguist-vendored
+*.Objective-C linguist-vendored=false
